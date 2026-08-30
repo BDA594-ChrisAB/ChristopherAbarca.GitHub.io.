@@ -1,5 +1,9 @@
 # ChristopherAbarca.GitHub.io.
 
+theme: jekyll-theme-minimal
+title: Chris Abarca's BDA 594 Website
+description: This website contains my BDA 594 class projects and assignments.
+
 ## ChemicalX
 
 [ChemicalX GitHub Page](https://github.com/AstraZeneca/chemicalx)
